@@ -19,3 +19,20 @@ pip install -r requirements.txt
 # 執行自動化管線
 python main.py
 💡 專業反思與核心價值「財務與風控的本質在於對細節的敬畏，而資訊技術的價值在於將這份敬畏轉化為高效且零誤差的標準作業程序（SOP）。」
+## 📊 專案成果預覽 (Excel 報表展示)
+
+### 1. 資料合併與清洗 (Data Pipeline)
+![資料合併預覽](https://github.com/user-attachments/assets/a14f4d97-a516-43f9-9dde-2e28985159aa)
+
+### 2. 會計科目總帳彙總 (General Ledger)
+![總帳預覽](https://github.com/user-attachments/assets/b16f6f11-7678-46c8-b98a-b5e5a47b5234)
+
+### 3. 帳目異常快篩清單 (Isolation Forest 偵測結果)
+![異常快篩預覽](https://github.com/user-attachments/assets/18402cb9-ef66-4e30-90dd-824eb808844c)
+
+### 4. 合作對象多維度營運與毛利分析
+![對象彙總預覽](https://github.com/user-attachments/assets/ed5388db-e0b5-4cae-8dd0-d8a7dfa5055e)
+
+
+
+
